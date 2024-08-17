@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css" />
+    <title>A Combat Game</title>
+</head>
+<body id="body">
+<div id="scroll">    
+<div id="background">
+    <nav id="nav-bar">
+        <div>
+            <span class="nav-link bg-color" id="back" href="#" alt="go back">
+                <svg xmlns="http://www.w3.org/2000/svg" height="35px" viewBox="0 -960 960 960" width="50px" fill="#e8eaed"><path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z"/></svg></span>
+        </div>
+        <div id="xp">
+            XP: <strong id="xp-text">0</strong>
+        </div>
+        <div>
+            <span class="nav-link bg-color" id="home" href="#" alt="go home">
+            <svg xmlns="http://www.w3.org/2000/svg" height="35px" viewBox="0 -960 960 960" width="50px" fill="#e8eaed"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z"/></svg></span>
+        </div>
+    </nav>
+    <main id="main">
+        <section id="player"> 
+            <div id="player-name">Adventurer</div>
+            <div class="assets">
+                <div>Health: <strong id="health-text">100</strong>%</div>
+                <div>Weapon: <strong id="weapon-text">Stick</strong></div>
+                <div>Gems: <strong id="gem-text">100</strong></div>
+            </div>
+        </section>
+        <section class="grid">
+            <div id="intro" class="container"> 
+                <h1> Perils of the Wild</h1> 
+                <h3>A Front-end Interactive Fiction</h3>
+                <p class="text"><b>NB:</b> Remember to take a screenshot of your highest score to keep a record. The game's progress isn't saved on any server.</p>
+                <button type="submit" class="btn" id="start">Start Game!</button>
+            </div>
+        </section>
+        <section class="grid"> 
+            <div  id="storyline">
+                <div class="container">
+                    <h2 class="heading">Jungle of Shadows</h2>
+                    <div class="text-container">
+                        <p class="text">You had always been one for adventure, but nothing could have prepared you for what lay ahead on your journey through Africa. Your plan was to traverse the continent by road, to experience the raw beauty and untamed wilderness firsthand. However, fate had other plans.</p>
+                        <p class="text">Your truck broke down deep in the heart of a vast jungle, far from any civilization. The thick canopy above blocked out the sun, casting the jungle floor in perpetual twilight. You knew you had to find food and water, so you ventured into the dense foliage, hoping to forage enough to survive until help arrived.</p>
+                        <p class="text">The jungle was alive with sounds—the rustling of leaves, distant animal calls, and the omnipresent hum of insects. You moved cautiously, scanning the ground and trees for anything edible. After hours of fruitless searching, you finally spotted a cluster of wild berries. Your stomach growled in anticipation, but as you reached out to pluck them, you froze.</p>
+                        <p class="text">From the underbrush, a pair of cold, unblinking eyes stared back at you. A snake, coiled and ready to strike, hissed menacingly.</p>
+                    </div>
+                    <button class="fight-btn btn" type="button">Fight!</button>
+                </div>
+                <div class="play">
+                    <button class="left-btn btn" type="button">STORE</button>
+                    <button class="right-btn btn" type="button">WEAPONS</button>
+                </div>
+            </div>
+        </section>
+        <section class="grid">
+            <div id="store-container">
+                <div class="container">
+                    <h2 class="heading">Store</h2>
+                    <div class="items">
+                        <div class="item 1">
+                            <h4 id="buy-1">Buy 10 health for 10 gem</h4>
+                            <button type="button" class="btn" id="health10">BUY</button>
+                        </div>
+                        <div class="item 2">
+                            <h4 id="buy-2">Buy 50 health for 40 gem</h4>
+                            <button type="button" class="btn" id="health50">BUY</button>
+                        </div><div class="item 3">
+                            <h4 id="buy-3">Buy sledgehammer for 30 gem</h4>
+                            <button type="button" class="btn" id="weapon-1">BUY</button>
+                        </div><div class="item 4">
+                            <h4 id="buy-4">Buy sphear for 60 gem</h4>
+                            <button type="button" class="btn" id="weapon-2">BUY</button>
+                        </div><div class="item 5">
+                            <h4 id="buy-5">Buy sword for 80 gem</h4>
+                            <button type="button" class="btn" id="weapon-3">BUY</button>
+                        </div>
+                    </div>
+                </div>                
+                <div class="play">
+                    <button class="right-btn btn" type="button">WEAPONS</button>
+                    <button class="fight-btn btn" type="button">Fight!</button>
+                </div>
+            </div>
+        </section>
+        <section class="grid">
+            <div id="weapons-container">
+                <div class="container">
+                    <h2 class="heading">Your Weapons</h2>
+                    <div class="items" id="owned">
+                        <h4>Stick</h4>
+                    </div>
+                </div>
+                <div class="play">
+                    <button class="left-btn btn" type="button">STORE</button>
+                    <button class="fight-btn btn" type="button">Fight!</button>
+                </div>
+            </div>
+        </section>
+        <section class="grid">
+            <div id="animal-selection" >
+                <div class="container">
+                    <button type="button" class="btn animal-btn" id="snake">Snake</button>
+                    <button type="button" class="btn animal-btn" id="hyena">Hyena</button>
+                    <button type="button" class="btn animal-btn" id="bear">Bear</button>
+                </div>
+                <div class="play">
+                    <button class="left-btn btn" type="button">STORE</button>
+                    <button class="right-btn btn" type="button">WEAPONS</button>
+                </div>
+            </div>  
+        </section>
+        <section id="fight-section" class="grid">
+            <div id="opponent" class="assets">
+                <div id="animal-name"></div>
+                <div>Health: <strong id="animal-health-text"></strong>%</div>
+                <div class="level">Dificulty: <strong id="animal-level-text"></strong></div>
+            </div>
+            <div class="container fight-container">
+                <h2 class="heading" id="headerText"></h2>
+                <div class="text-container" id="fight-text"></div>
+                <button class="fight-btn btn" type="button" id="hide" >Fight!</button>
+            </div>
+            <div class="play">
+                <button type="submit" id="attack-btn" class="btn">ATTACK</button>
+                <button type="submit" id="defend-btn" class="btn">DEFEND</button>
+            </div>
+        </section>
+    </main>
+</div>
+<footer id="footer">
+    <div>Images from MetaAI</div>
+    <div>Narration from Chatgpt</div>
+    <div><a href="#"> Codes by Adékúnlé</a></div>
+</footer> 
+    <script type="text/javascript" src="./script.js"></script>
+</div>    
+</body>
+</html>
