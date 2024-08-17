@@ -1,0 +1,167 @@
+** Snake **
+    1 **
+     The snake hisses, its forked tongue flicking out as it gauges your next move. The sunlight glints off its scales, highlighting its dangerous beauty. It's only a few feet away, and you can see the venom glistening on its fangs. You’re armed with a sturdy stick you picked up earlier.
+
+    attack **
+     Your strike connects with a sickening thud, hitting the snake squarely in its midsection. The force of the blow knocks the snake back, but it’s far from defeated. It writhes in pain, its body twisting violently as it prepares to retaliate.
+
+     The snake rears up, anger flashing in its cold eyes, and strikes out with blinding speed. You narrowly dodge the attack, feeling the rush of air as its fangs miss you by inches. You realize that the snake won’t give up easily—it’s a fight to the death.
+
+    defend, 2 **
+     The snake rears up, anger flashing in its cold eyes, and strikes out with blinding speed. You barely evade the attack, the air chilling as the snake's fangs graze past you by mere inches. The sight of its venomous mouth snapping shut so close sends a shiver down your spine.
+
+    attack, 3 **
+     With determination in your eyes, you tighten your grip on the stick and take aim. The snake is momentarily disoriented from its missed strike, giving you the perfect opportunity. You swing the stick again, this time with precise intent, aiming for the snake’s head.
+
+     The stick connects with a powerful crack, striking the snake directly on its head. The force of the impact causes the snake to convulse violently. It hisses loudly, its movements becoming erratic. For a moment, it seems stunned, but you know you need to ensure it's incapacitated.
+
+     The snake's movements slow, and its once-threatening posture collapses. Its head droops, and it becomes clear that the fight is almost over. You remain vigilant, watching carefully for any last attempts at retaliation.
+
+    defend, 3 **
+     you waited for some seconds to study the dirrection of attack of the snake. The snake, sensing your resolve and the danger it faces, recoils in fear. 
+
+    attack, 4 **
+     The snake, now defeated, lies still on the jungle floor. You’ve won the battle, but your body is trembling from the adrenaline and effort. You take a deep breath, the jungle’s oppressive heat still weighing down on you.
+
+     ** Show Button to animal selection **
+
+    defend, 4 **
+     It slithers back rapidly, its movements frantic and disorganized. With a final hiss, the snake retreats into the underbrush, vanishing into the darkness as it seeks safety from the fight it couldn’t win. You stand there, heart pounding, knowing that while the immediate threat is gone, the jungle remains fraught with peril.
+
+     ** Show Button to animal selection **
+
+** hyena **
+    1 **
+     The hyena, with its ragged fur and powerful jaws, circles you with a predatory gleam in its eyes. Its teeth are bared, and it snarls aggressively, clearly intent on claiming the carcass and you as its prey. You can see that it’s not alone—a pack might be nearby, and it’s clear you need to act quickly.
+
+    attack, 2 **
+     As the hyena lunges toward you, you swing the branch with all your might, aiming to strike it on the side. The branch connects with a resounding thud, knocking the hyena back and making it yelp in pain. The beast recoils but quickly regains its footing, snarling and baring its teeth. 
+
+     You then took a deep breath, making yourself appear as large and imposing as possible. You raise the branch high above your head, shouting loudly and swinging it in a wide arc to create the illusion of greater threat.
+
+     The hyena pauses, its eyes widening as it takes in your aggressive stance. It growls lowly, hesitant for a moment as if unsure whether to continue the attack. The beast’s posture becomes less aggressive, its ears flicking back as it assesses the new danger you’ve presented.
+
+    defend, 2 ** 
+     You take a deep breath, making yourself appear as large and imposing as possible. You raise the branch high above your head, shouting loudly and swinging it in a wide arc to create the illusion of greater threat.
+
+     The hyena pauses, its eyes widening as it takes in your aggressive stance. It growls lowly, hesitant for a moment as if unsure whether to continue the attack. The beast’s posture becomes less aggressive, its ears flicking back as it assesses the new danger you’ve presented.
+
+    attack, 3 **
+     Seizing the opportunity as the hyena hesitates, you decide to take decisive action. With your grip firm on the branch, you adjust your stance and aim directly for the hyena’s vulnerable neck.
+
+     As the hyena edges back, you lunge forward with a sudden, powerful thrust. The stick pierces through the hyena’s neck with a sickening crunch, the animal’s eyes widening in shock. It lets out a final, strangled cry as it collapses to the ground, its body twitching and convulsing before becoming still.
+
+    defend, 3 **
+     As you continue to make yourself look as menacing as possible, the hyena’s growls grow quieter, and it begins to back away, its gaze never leaving you. The standoff seems to stretch on, the tension palpable. Finally, the hyena turns and retreats into the jungle, vanishing into the dense foliage.
+
+    attack, 4 **
+     The hyena lies motionless in the clearing, the threat now fully neutralized. You’re left standing over the defeated beast, your breath coming in ragged gasps. The jungle around you is eerily silent, the tension from the fight lingering in the air.
+
+     The fight has taken its toll on you, and the reality of the jungle's dangers has never felt more immediate. As you catch your breath, you realize that the hyena’s death might draw attention from other predators or scavengers.
+     
+     ** Show Button to animal selection **
+
+    defend, 4 **
+     You stand there, panting heavily, the adrenaline still coursing through your veins. The immediate threat has been averted, but you remain on edge, knowing that the jungle is full of dangers. You’ve survived another perilous encounter, but the challenge of finding safety and resources continues.
+
+     The fight has taken its toll on you, and the reality of the jungle's dangers has never felt more immediate. As you catch your breath, you realize that the hyena’s death might draw attention from other predators or scavengers.
+
+     ** Show Button to animal selection **
+     
+** bear **
+    1 **
+     You were catching your breath after your brutal encounter with the hyena. The jungle is unusually quiet now, a stark contrast to the earlier chaos. As you stood over the fallen hyena, you heard a deep, rumbling growl that sends a chill down your spine. The ground trembles slightly, and a heavy silence envelops the clearing.
+
+     The low, guttural roar grows louder, echoing through the trees and shaking the underbrush. Your instincts kick in, and you quickly realized that the sound is not a distant threat—it’s approaching fast. The massive bear that has been drawn to the clearing by the commotion emerges from the jungle, its eyes locked onto you with a deadly intent.
+
+     The bear, a towering figure with powerful limbs and a coat of matted fur, strides into the clearing. Its breath is heavy and labored, and it emits another growl that reverberates through the air. The clearing, once a scene of victory, is now the stage for a fight with one of the jungle’s most fearsome predators.
+
+     The bear's eyes are fixed on you, its powerful jaws slightly open, revealing sharp teeth. It seems enraged, either by the scent of blood from the hyena or by the intrusion into its territory. Its stance is aggressive, and it begins to charge toward you with a terrifying speed.
+
+    attack, 2 **
+     you grips your weapon tightly, steeling himself as the bear charges. As the bear closes in, you <swing the stick> with all your might, aiming for its head. The <stick> connects with a heavy thud, causing the bear to stagger back momentarily, its roar turning into a pained growl.
+
+     The bear shakes its head, visibly enraged but now wary of your attack. It growls deeply, its eyes never leaving you. The battle is far from over, but your swift strike has bought you some time.
+
+     The bear, now enraged and wary of your attack, roars loudly and charges again with renewed ferocity. Its massive claws swipe through the air, and its powerful jaws snap shut with a terrifying force.
+
+    defend, 2 **
+     you hide yourself behind a big tree, hoping the bear wouldn't see you, but the scent of blood on your shirt couldn’t keep you hidden.
+
+    attack, 3 **
+     As the bear lunges at you with its massive claws, you brace yourself and <lift the stick> to block the incoming swipe. The stick meets the bear's claws with a resounding crack, absorbing some of the force but shaking you with the impact.
+    
+    defend, 3 **
+     As the bear lunges at you, you’re forced to react quickly. Its swipe narrowly misses you, sending a rush of air past your face. The ground shakes as it tries to claw you down, and you can see its teeth glistening with a deadly intent.
+
+    attack, 4 **
+     The bear recoils slightly, momentarily stunned by the blocked attack. Seizing the opportunity, you swing the stick again, aiming for its head and shoulders. The bear growls in pain as the stick connects, but it quickly recovers and snarls, its eyes blazing with anger.
+
+     The bear’s assault continues, but your determined defense has given you a slight edge. You’re still in a dangerous position, but you’ve managed to hold your ground for now.
+
+    defend, 4 **
+     Realizing that you need to gain an advantage, you quickly scan the clearing for anything that could help. Nearby, you spot a pile of fallen branches and some large rocks scattered around.
+
+     With the bear momentarily distracted by your previous strikes, you grab a couple of rocks and throw them towards a cluster of dense bushes. The sound of the rocks hitting the foliage creates a loud crash, drawing the bear’s attention.
+
+     The bear turns towards the noise, growling and sniffing the air in curiosity. This brief diversion gives you a crucial opportunity to reposition yourself. You use the chance to move to a more defensible spot behind a large tree, where you can better shield yourself from the bear’s attacks.
+
+     The bear remains focused on the noise, giving you a few precious moments to regroup and prepare for the next move.
+
+    attack, 5 **
+     Realizing that you need to gain an advantage, you quickly scan the clearing for anything that could help. Nearby, you spot a pile of fallen branches and some large rocks scattered around.
+
+     With the bear momentarily distracted by your previous strikes, you grab a couple of rocks and throw them towards a cluster of dense bushes. The sound of the rocks hitting the foliage creates a loud crash, drawing the bear’s attention.
+
+     Seizing the opportunity created by the diversion, you position yourself behind the large tree, keeping an eye on the bear as it investigates the noise. With the bear’s attention focused away from you, you prepare for a decisive attack.
+
+     Quietly, you move to the side, positioning yourself where the bear can’t see you. Holding the branch tightly, you take a deep breath and charge toward the bear’s blind spot. With a surge of adrenaline, you swing the branch with all your might, aiming for the bear’s vulnerable side.
+
+     The <branch hit> the bear with force. The bear roars in surprise and pain, its body shuddering from the impact. The unexpected attack causes it to stagger, its previously focused aggression now replaced with confusion and agony.
+
+     The bear, enraged and hurt from your previous attack, reacts with a furious swipe of its massive claws. You see the claws coming and instinctively dodge to the side, narrowly avoiding the deadly swipe.
+
+    defend, 5 **
+     The bear, now disoriented as he couldn’t find you at the noise,it turns around slowly, its movements less coordinated. The fight has shifted in your favor, but you know you must remain vigilant. The bear is still a formidable opponent, but your strategic attack has given you a significant advantage.
+
+     The bear slightly picked up a faint scent of blood in the air, then follows the scent where you were.
+     
+     Upon seeing you, it attacks with a furious swipe of its massive claws. You see the claws coming and instinctively dodge to the side, narrowly avoiding the deadly swipe.
+
+    attack, 6 **
+     The bear’s claws slice through the air with a forceful whoosh and connect with the tree behind you. The impact causes a shower of splinters as the tree’s bark is shredded, and the bear lets out a frustrated roar, its claws embedded in the wood for a moment before it retracts them.
+
+     The bear pulls back, growling angrily as it shakes its paws, dislodging fragments of bark. Its eyes are still fixed on you, its rage undiminished despite the failed attack. The clearing remains tense, the battle far from over, but you’ve managed to avoid serious injury.
+
+     Seeing the bear’s frustration and its moment of distraction, you decide to take advantage of the opportunity. With a determined effort, you swing the branch again, aiming for the bear’s leg. The branch connects with a sharp crack, causing the bear to roar in pain as it stumbles, its leg buckling under the force of the blow.
+
+     The bear’s balance is compromised, and it lurches awkwardly toward the edge of a hidden pit you had noticed earlier. The pit, camouflaged by fallen leaves and branches, catches the bear off guard. With a final, desperate roar, the bear loses its footing and falls into the pit with a heavy thud.
+
+    defend, 6 **
+    The bear’s balance is compromised, and it lurches awkwardly toward the edge of a hidden pit you had noticed earlier. The pit, camouflaged by fallen leaves and branches, catches the bear off guard. With a final, desperate roar, the bear loses its footing and falls into the pit with a heavy thud.
+
+    attack, 7 **
+     The bear struggles inside the pit, its roars echoing from the depths as it attempts to climb out. The pit’s walls are steep and slippery, making it difficult for the bear to gain purchase. Its movements become frantic, but it’s clear that the bear is now trapped.
+
+     With the bear trapped in the pit, its roars echoing faintly from below, you recognize that this is your chance to escape. Relieved to have neutralized the threat, you quickly gather your belongings and make your way away from the clearing.
+
+     The jungle, once again, becomes your path as you move swiftly through the underbrush. The sounds of the bear’s struggles fade into the distance, and the danger that once loomed over you is now behind you.
+
+    defend, 7 **
+     The bear struggles inside the pit, its roars echoing from the depths as it attempts to climb out. The pit’s walls are steep and slippery, making it difficult for the bear to gain purchase. Its movements become frantic, but it’s clear that the bear is now trapped.
+
+     With the bear trapped in the pit, its roars echoing faintly from below, you recognize that this is your chance to escape. Relieved to have neutralized the threat, you quickly gather your belongings and make your way away from the clearing.
+
+     The jungle, once again, becomes your path as you move swiftly through the underbrush. The sounds of the bear’s struggles fade into the distance, and the danger that once loomed over you is now behind you.
+
+    attack, 8 **
+     Victory feels sweet, and the adrenaline begins to fade, replaced by a cautious optimism. As you continue on your journey, you remain vigilant, knowing that the jungle holds many more challenges. For now, though, you’ve conquered one of its fiercest threats and lived to tell the tale.
+
+     Congratulations, you have completed the fiction. would you like to earn some bonus points?
+
+    defend, 8 **
+     Victory feels sweet, and the adrenaline begins to fade, replaced by a cautious optimism. As you continue on your journey, you remain vigilant, knowing that the jungle holds many more challenges. For now, though, you’ve conquered one of its fiercest threats and lived to tell the tale.
+
+     Congratulations, you narrowly saved your dear life. would you like to earn some bonus points?
+
+    ** Show Button for easter egg **
